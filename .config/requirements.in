@@ -1,10 +1,10 @@
 ansible-builder
-ansible-creator
-ansible-dev-environment
-ansible-lint
-ansible-navigator
+ansible-creator>=24
+ansible-dev-environment>=24
+ansible-lint>=24
+ansible-navigator>=24
 ansible-sign
-molecule
-pytest-ansible
+molecule>=24
+pytest-ansible>=24
 setuptools
 tox-ansible
